@@ -5,7 +5,7 @@ A Python application that converts PDFs into a traditional book reading experien
 ## Features
 
 - **Traditional Book Layout**: Displays PDF pages in a two-page spread like a real book
-- **Gesture Controls**: Wave your hand left or right to turn pages
+- **Gesture Controls**: Wave your hand left or right to turn pages, and put your finger to your lips to you lick your finger before turning a page (required each page turn)
 - **Real-time Webcam Integration**: See your hand movements with gesture detection overlay
 - **High-Quality PDF Rendering**: Supports both PyMuPDF (recommended) and PyPDF2 for PDF processing
 
