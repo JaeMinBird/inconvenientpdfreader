@@ -25,7 +25,7 @@ pip install PyMuPDF
 
 Run the application with a PDF file:
 ```bash
-python main.py path/to/your/document.pdf
+python main.py "path/to/your/document.pdf"
 ```
 
 ### Controls
